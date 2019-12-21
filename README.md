@@ -1,7 +1,7 @@
 
-# got prize on grabathon
+# face pay front end
 
-# grabathone-2019-dec
+# -2019-dec
 face pay app with react and ionic , 
 
 # ionic-react
