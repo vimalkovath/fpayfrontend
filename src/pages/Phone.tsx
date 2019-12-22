@@ -3,7 +3,6 @@ import { IonHeader, IonToolbar, IonTitle, IonContent, IonPage, IonButtons, IonMe
 import { RouteComponentProps } from 'react-router';
 import { Link } from 'react-router-dom'
 import './phone.css';
-import '../Data/data.js.js';
 interface OwnProps extends RouteComponentProps {}
 
 interface DispatchProps {
