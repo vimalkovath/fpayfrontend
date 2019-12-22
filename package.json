@@ -1,8 +1,8 @@
 {
-  "name": "grabtest",
+  "name": "innov-facepay",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://vimalkovath.github.io/grabtest/",
+  "homepage": "http://vimalkovath.github.io/innov-facepay/",
   "dependencies": {
     "@capacitor/core": "1.3.0",
     "@ionic/pwa-elements": "^1.4.1",
