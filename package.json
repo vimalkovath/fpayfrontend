@@ -1,8 +1,8 @@
 {
-  "name": "innov-facepay",
+  "name": "fpayfrontend",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://vimalkovath.github.io/innov-facepay/",
+  "homepage": "http://vimalkovath.github.io/fpayfrontend/",
   "dependencies": {
     "@capacitor/core": "1.3.0",
     "@ionic/pwa-elements": "^1.4.1",
